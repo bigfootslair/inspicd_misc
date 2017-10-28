@@ -1,2 +1,2 @@
-# inspicd_misc
+# inspircd_misc
 Miscellaneous files for inspircd.
