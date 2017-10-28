@@ -12,8 +12,8 @@ This is an IRC network based on feature-rich chat.
 │ • I (bigfoot and other opers) reserve the right to carry out the rules       │
 │   BY ANY MEANS NECESSARY. Although we try to carry out the rules in a        │
 │   fair manner, we aren't perfect :P                                          │
-│ • Ignore evading, ban evading, and quiet evading are all against network     │
-│   rules, and will bring you closer to a k-line.                              │
+│ • Ignore evading, ban evading, and quiet evading are all against network │
+│   rules, and will bring you closer to a k-line.                          │
 ╰⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼╯
 
 ╭⎼Important⎼Info⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼╮
@@ -23,35 +23,13 @@ This is an IRC network based on feature-rich chat.
 │ • In case you geeks are wondering where the SNOMASKs are sent:               │
 │   they are sent to #opers. That is an oper-only channel, so please ask to    │
 │   join.                                                                      │
-│ • Some SNOMASKs are sent to #BigfootsLair (+KkXx)                            │
+│ • Some SNOMASKs are sent to #BigfootsLair (+KkXx).                           │
 │ • Make sure to have lots of fun!                                             │
 ╰⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼╯
 
-╭⎼Staff⎼Report⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼╮
-│ • This list is currently somewhat out of date. Type /stats P to list         │
-│   all connected opers.                                                       │
-│ • We are not currently looking for staff members                             │
-│ • The current staff members are:                                             │
-│     ■ Owner:                                                                 │
-│         □ Nick: bigfoot                                                      │
-│         □ Account: bigfoot                                                   │
-│         □ Cloak: ircop.bigfootslair.net                                      │
-│     ■ Helper:                                                                │
-│         □ Nick: Heart                                                        │
-│         □ Account: Heart                                                     │
-│         □ Cloak: helper.bigfootslair.net or Full.Of.Love                     │
-│     ■ Helper:                                                                │
-│         □ Nick: BurningPrincess                                              │
-│         □ Account: BurningPrincess                                           │
-│         □ Cloak: helper.bigfootslair.net                                     │
-│     ■ Shentino:                                                              │
-│         □ Nick: Shentino                                                     │
-│         □ Account: Shentino                                                  │
-│         □ Cloak: shentino.bigfootslair.net                                   │
-│     ■ SOPER:                                                                 │
-│         □ Nick: luk3yx                                                       │
-│         □ Account: luk3yx                                                    │
-│         □ Cloak: xIRC/ServerAdmin/luk3yx                                     │
+╭⎼Staff⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼╮
+│ • Type /stats P to list all connected opers.                                 │                                             
+│ • We are not currently looking for staff members.                        │
 ╰⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼⎼╯
 
 What're you waiting for? Join your favorite channels and start typing! :D
